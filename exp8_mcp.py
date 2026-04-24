@@ -1,4 +1,4 @@
-# MCP Neuron for AND Gate
+
 
 def mcp_neuron(x1, x2):
     w1 = 1
@@ -12,7 +12,7 @@ def mcp_neuron(x1, x2):
     else:
         return 0
 
-# Test cases
+
 inputs = [(0,0), (0,1), (1,0), (1,1)]
 
 print("MCP Neuron AND Gate Output:")
